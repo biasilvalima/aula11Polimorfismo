@@ -1,0 +1,13 @@
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\obj\Debug\netcoreapp3.1\aula11Polimorfismo.csprojAssemblyReference.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\obj\Debug\netcoreapp3.1\aula11Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\obj\Debug\netcoreapp3.1\aula11Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\obj\Debug\netcoreapp3.1\aula11Polimorfismo.AssemblyInfo.cs
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\bin\Debug\netcoreapp3.1\aula11Polimorfismo.exe
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\bin\Debug\netcoreapp3.1\aula11Polimorfismo.deps.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\bin\Debug\netcoreapp3.1\aula11Polimorfismo.runtimeconfig.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\bin\Debug\netcoreapp3.1\aula11Polimorfismo.runtimeconfig.dev.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\bin\Debug\netcoreapp3.1\aula11Polimorfismo.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\bin\Debug\netcoreapp3.1\aula11Polimorfismo.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\obj\Debug\netcoreapp3.1\aula11Polimorfismo.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\obj\Debug\netcoreapp3.1\aula11Polimorfismo.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula11Polimorfismo\obj\Debug\netcoreapp3.1\aula11Polimorfismo.genruntimeconfig.cache
